@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute Page</title>
+    <link rel="stylesheet" href="test_01.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Arsenal+SC:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+
+</head>
+<body>
+<section class="bg">
+    <div>
+        <img class="my_logo" src="main_logo.webp" alt="My logo" height="100px" width="100px">
+    </div>
+
+    <div class="title">
+        <div><p id="title_name_1">Rocket Women</p></div>
+        <div><p id="title_name_2">Of Chandrayaan-3</p></div>
+        <div><p id="title_q">"Chandrayaan 3 soars on the wings of ambition, guided by the minds of these remarkable women."</p></div>
+    </div>
+
+    <br>
+    <br>
+    <br>
+
+    <div class="para">
+        <h1 id="para_heading">Who are some of isro’s women scientists?</h1>
+        <div id="para1">
+            <p>While India celebrates the successful landing of Chandrayaan-3 on the moon, there are only a few who are talking about the female scientists who worked behind the scenes to make the mission successful.</p>
+            <p>India's Chandrayaan-3 has triumphantly achieved a precise touchdown on the southern pole of the moon, thereby elevating India to the esteemed position of the fourth nation globally, following the United States, China, and the former Soviet Union, to successfully execute this remarkable accomplishment. The commencement of this mission transpired from Sriharikota on the 14th of July.</p>
+            <p>On August 26, Prime Minister Narendra Modi met with several female scientists from the Indian Space Research Organisation (ISRO) to highlight the role women played in Chandrayaan-3 lunar mission. “The women scientists of this mission have played a crucial role in ensuring its success. Without their contribution, this achievement was just not possible. They will inspire generations to come,” Modi said.</p>
+            <p>Modi also decided to name Chandrayaan-3’s landing spot on the moon “Shiv Shakti”, a name derived from the concept of feminine energy in Hindu mythology, and a tribute to the women scientists who worked on the mission. Between 20 and 25 per cent of the space agency’s over 16,000 employees are women.</p>
+            <p>Over 100 women scientists and engineers are reported to have been involved in the mission, which culminated in India landing its lunar rover on August 23 and becoming the first country to put a spacecraft near the moon’s south pole. Many women were in the control room at the time of the launch and during the landing on August 23.</p>
+            <p>In an interview with DW, ISRO chief S. Somanath talked about how women were involved in conceptualizing, designing and executing the Chandrayaan-3 mission. “Some of them played a significant role in navigation during the lander’s critical descent,” said Somanath.</p>
+        </div>
+    </div>
+
+    <br>
+    <br>
+    <br>
+
+    <section class="fact">
+        <span id="fact1">
+            <h1 id="fact1_heading">Fact 1: Pioneering the Lunar South Pole</h1>
+            <p>Chandrayaan-3 made history by becoming the first mission to achieve a soft landing on the Moon's south pole. This previously unexplored region holds great scientific interest due to the presence of water ice trapped in permanently shadowed craters. Scientists believe this ice could be a valuable resource for future lunar exploration and potentially even support the establishment of a sustainable human presence on the Moon.</p>
+        </span>
+        <span id="fact2">
+            <h1 id="fact2_heading">Fact 2: A Short but Historic Journey</h1>
+            <p>While Chandrayaan-3's landing was a success, the mission on the lunar surface had a predetermined duration. The lander wasn't equipped to endure the extreme cold of the lunar night.  As planned, the mission concluded twelve days after landing when the landing site plunged into darkness. Despite the short operational lifespan, the data collected by Chandrayaan-3 during its lunar day provided valuable insights into the south pole's composition and environment, paving the way for future lunar exploration missions.</p>
+        </span>
+    </section>
+
+    <br>
+    <br>
+    <br>
+
+    <div>
+        <h1 id="ritu_name">1. Dr. Ritu Karidhal Srivastava</h1>
+    </div>
+
+    <br>
+
+    <div class="ritu">
+        <img id="ritu_photo" src="Ritu Photo.jpeg" alt="Dr. Ritu Karidhal Srivastava">
+        <div id="ritu_para">
+            <p>Dr. Ritu Karidhal Srivastava, a shining example of India's "Rocket Women," has played a pivotal role in the country's space exploration endeavors. Growing up in Lucknow, her fascination with space bloomed early. Despite limited resources, her unwavering self-motivation propelled her towards excelling in Physics and later, Aerospace Engineering. Joining ISRO in 1997, she became a key figure in the historic Mangalyaan mission, India's first venture to Mars.  Dr. Karidhal's brilliance shone through as she conceptualized and implemented the spacecraft's autonomous system, enabling it to function independently and respond effectively to challenges in the vast expanse of space. This remarkable feat not only established India as the fourth nation to reach Mars but also achieved it in record time and at a minimal cost.</p>
+            <p>Dr. Karidhal's contributions continued to propel India's space ambitions. She served as the Mission Director for Chandrayaan-2 and once again in the successful Chandrayaan-3 mission, which made India the first country to achieve a soft landing on the Moon's South Pole. Her dedication, expertise, and leadership have been instrumental in India's ascent as a major spacefaring nation.  Her achievements transcended national borders; she was invited to be a part of the UK's Gender Equality Advisory Council, a testament to her inspiring impact that transcends scientific boundaries. Dr. Karidhal's story serves as a powerful inspiration, particularly for young women in STEM fields, demonstrating that passion, perseverance, and intellectual prowess can pave the way for extraordinary accomplishments.</p>
+        </div> 
+    </div>
+
+    <br>
+    <br>
+    <br>
+
+    <div>
+        <h1 id="nandini_name">2. Nandini Harinath</h1>
+    </div>
+
+    <br>
+
+    <div class="nandini">
+        <img id="nandini_photo" src="Nandini.png" alt="Nandini Harinath">
+        <div id="nandini_para">
+            <p>Nandini Harinath, a passionate scientist at ISRO's Satellite Centre in Bengaluru, exemplifies the dedication that fuels India's spacefaring endeavors. Inspired by science fiction and a family environment nurturing curiosity, Nandini's journey began with Star Trek on television.</p> 
+            <p>A mother who teaches math and a father in engineering, her interest in science blossomed early.</p>
+            <p>ISRO became her calling, and for the past two decades, she has poured her talent into 14 missions, steadily climbing the ranks. Her expertise lies in mission design and project management, skills that have proven invaluable in shaping India's ambitious space programs.</p>
+            <p>Harinath's contributions extend beyond design and management.  She played a crucial role as the deputy operations director in the Mars Orbiter Mission, also known as Mangalyaan. This historic mission not only established India's presence on Mars but also achieved it with remarkable efficiency, becoming the most cost-effective Mars mission in history.</p>
+            <p>Nandini's leadership and technical prowess were instrumental in this success, propelling India's space exploration to new heights.</p>
+        </div>
+    </div>
+
+    <br>
+    <br>
+    <br>
+
+    <div>
+        <h1 id="anuradha_name">3. Anuradha T. K.</h1>
+    </div>
+
+    <br>
+
+    <div class="anuradha">
+        <img id="anuradha_photo" src="Anuradha.png" alt="Anuradha T. K.">
+        <div id="anuradha_para">
+            <p>Anuradha T.K. is a remarkable scientist who shattered glass ceilings at the Indian Space Research Organisation (ISRO). Born in Bangalore in 1961, her fascination with science began early, fueled by her supportive family environment. While many of her peers opted to study abroad, Anuradha chose to stay in India and pursue her dream of joining the space program. Her determination led her to ISRO in 1982, where she became the senior-most female scientist and the first woman to ever hold the position of satellite project director.</p>
+            <p>Throughout her 34-year career at ISRO, Anuradha played a pivotal role in numerous space missions. Her expertise lies in satellite checkout systems, ensuring optimal performance of these complex machines once launched.  She spearheaded the launch of several critical communication satellites, including GSAT-9, GSAT-17, and GSAT-18.  Her most notable achievement came with the GSAT-12 mission. </p> 
+            <p>Not only did she oversee its launch, but she also devised a unique method for controlling geosynchronous satellites, a technique that continues to be used today.</p> 
+            <p>This innovative solution involved an all-women team at the Hassan control facility, a historic first for ISRO and a testament to Anuradha's leadership and commitment to empowering other women in STEM fields.</p>
+        </div> 
+    </div>
+
+    <br>
+    <br>
+    <br>
+
+    <div>
+        <h1 id="minal_name">4. Minal Rohit</h1>
+    </div>
+
+    <br>
+
+    <div class="minal">
+        <img id="minal_photo" src="Minal.png" alt="Minal Rohit">
+        <div id="minal_para">
+            <p>Minal Rohit, a distinguished scientist and systems engineer, stands as a pillar of India's space exploration efforts. After graduating at the top of her class, she joined ISRO and displayed unwavering dedication. Her commitment went above and beyond, withstanding two years without leave to ensure the success of the Mangalyaan Orbiter Mission (MOM) to Mars. This remarkable feat not only placed India among the prestigious nations orbiting the Red Planet but also cemented Minal's status as a role model for aspiring female scientists in India. Her unwavering focus and leadership qualities propelled her rise through the ranks of ISRO. Currently, she thrives as the Deputy Project Director, spearheading crucial missions like Chandrayaan II.</p>
+            <p>Beyond her technical expertise, Minal Rohit demonstrates a deep commitment to innovation and the practical application of space technology. Her focus on improving weather satellite data exemplifies this dedication. This focus ensures that advancements in space exploration have a tangible impact on people's lives. Minal's exceptional work has been recognized through numerous awards, and her story continues to inspire countless future scientists, particularly young women pursuing careers in STEM fields. Notably, she harbors an ambitious dream of becoming the first woman leading a national space agency. This aspiration reflects her unwavering commitment to paving the way for greater gender equality within the scientific community. Her dedication, leadership, and vision position her as a true inspiration for generations to come.</p>
+        </div>
+    </div>
+
+    <br>
+    <br>
+    <br>
+
+    <div>
+        <h1 id="tessy_name">5. Tessy Thomas</h1>
+    </div>
+
+    <br>
+
+    <div class="tessy">
+        <img id="tessy_photo" src="Tessy.png" alt=" Tessy Thomas">
+        <div id="tessy_para">
+            <p>Dr. Tessy Thomas is a pioneering figure in Indian science and defense.  Her career has been dedicated to strengthening India's missile technology, earning her the well-deserved title of "Missile Woman" of India. In 1988, Dr. Thomas joined the Defence Research and Development Organisation (DRDO), where she played a crucial role in the development of the Agni ballistic missile program.  Recognizing her talent, the legendary Dr. A.P.J. Abdul Kalam appointed her to the Agni project.  Dr. Thomas' expertise propelled her to leadership positions within the program.  She served as the associate project director for the Agni-III missile and later became the project director for both the Agni-IV and Agni-V missiles.  These missiles, with ranges of 3,000 km and 5,000 km respectively, significantly bolstered India's strategic defense capabilities.  Under her leadership, both missiles were successfully tested in 2011 and 2012, marking major milestones for the Indian missile program.</p> 
+            <p>Dr. Thomas' contributions extend far beyond the Agni project.  Her dedication and leadership within DRDO were recognized with her appointment as the Director-General of Aeronautical Systems in 2018.  In this role, she oversaw a critical division of DRDO, responsible for the development of aeronautical technologies.  She served with distinction until her retirement in 2023.  Dr. Thomas' achievements have garnered her numerous accolades, including the prestigious Lal Bahadur Shastri National Award, a testament to her pivotal role in making India self-reliant in the field of missile technology.  Her groundbreaking work has not only strengthened India's defense but also serves as an inspiration for young women pursuing careers in science and technology.</p>
+        </div> 
+    </div>
+
+    <br>
+    <br>
+    <br>
+
+    <div>
+        <h1 id="moumita_name">6. Moumita Dutta</h1>
+    </div>
+
+    <br>
+
+    <div class="moumita">
+        <img id="moumita_photo" src="Moumita.png" alt="Moumita Dutta">
+        <div id="moumita_para">
+            <p>Moumita Dutta's journey to becoming a key player in developing space instruments at ISRO is an inspiring tale of passion and dedication.  A spark ignited in her youth by the Chandrayaan mission blossomed into a lifelong pursuit of scientific exploration. With a focus on physics, particularly optics and infrared sensors, Dutta's expertise proved instrumental in the success of the Mars Orbiter Mission (MOM).</p>
+            <p>She played a pivotal role by developing one of the mission's five crucial payloads, directly contributing to MOM's historic achievement of reaching Mars.</p>
+            <p>Dutta's ambitions extend far beyond individual missions.  Currently, she leads a team with a focus that aligns perfectly with India's "Make in India" initiative.</p>
+            <p>Their mission is to develop advanced optical instruments domestically, fostering self-reliance in critical space technology.</p>
+            <p>Furthermore, her research delves into the miniaturization of gas sensors. This push towards miniaturization is crucial for future space missions, as it allows for more compact and efficient spacecraft designs.  By tackling this challenge, Dutta is helping to propel India to the forefront of space exploration.</p>
+        </div>
+    </div>
+
+    <br>
+    <br>
+    <br>
+
+    <div>
+        <h1 id="lalithambika_name">7. V. R. Lalithambika</h1>
+    </div>
+
+    <br>
+
+    <div class="lalithambika">
+        <img id="lalithambika_photo" src="Lalithambika.png" alt="V. R. Lalithambika">
+        <div id="lalithambika_para">
+            <p>Lalithambika's name is synonymous with excellence in Indian space exploration. A veteran of over 100 ISRO missions, she joined VSSC in 1988 and quickly rose through the ranks. Her expertise lies in the design and development of control and guidance systems for rockets like the workhorse PSLV and the powerful GSLV. Her leadership and technical prowess have been instrumental in India's numerous successful space missions, solidifying the country's position as a major spacefaring nation.</p>
+            <p>Lalithambika's dedication transcends technical mastery.  She has served as Deputy Director of VSSC, demonstrating her strong leadership skills. </p>
+            <p>Currently, she spearheads the ambitious Gaganyaan mission, aiming to launch India's first crewed spaceflight. This historic endeavor signifies a new chapter in Indian space exploration, and Lalithambika's guidance is paramount to its success. Her remarkable achievements have been recognized with prestigious awards, including the Space Gold Medal and even the Legion d'honneur, the highest civilian honor bestowed by France. </p>
+            <p>Lalithambika's unwavering commitment and leadership in both launch vehicle technology and human spaceflight pave the way for a bright future in Indian space exploration.</p>
+        </div> 
+    </div>
+
+    <br>
+    <br>
+    <br>
+
+    <div>
+        <h1 id="muthayya_name">8. Muthayya Vanitha</h1>
+    </div>
+
+    <br>
+
+    <div class="muthayya">
+        <img id="muthayya_photo" src="Muthayya.png" alt="Muthayya Vanitha">
+        <div id="muthayya_para">
+            <p>Muthayya Vanitha is a distinguished Indian electronics system engineer, renowned for her leadership in guiding satellite projects at the Indian Space Research Organisation (ISRO). With a remarkable career exceeding three decades, she has become an indispensable figure in ISRO's journey towards groundbreaking achievements. </p> 
+            <p>Vanitha's pivotal role as the project director for the Chandrayaan-2 lunar mission stands testament to her exceptional leadership qualities. Under her astute guidance, ISRO successfully undertook this historic mission, pushing the boundaries of lunar exploration.</p>
+            <p>Vanitha's expertise extends far beyond the Chandrayaan-2 mission. Her prior experience as the deputy project director for critical missions like Cartosat-1, Oceansat-2, and Megha-Tropiques showcases her remarkable versatility. In these roles, she played a crucial part in data operations, highlighting her exceptional ability to manage complex technical aspects of space missions. </p> 
+            <p>Notably, Vanitha's contributions also played a significant role in the triumphant Mangalyaan mission of 2013, where India proudly made its mark on Martian exploration. This diverse range of achievements solidifies her position as a leading figure in India's space program.</p>
+        </div>
+    </div>
+
+    <br>
+    <br>
+    <br>
+
+    <br>
+    <br>
+    <br>
+
+    <section class="end">
+        <br>
+        <br>
+        <p id="myself">Greetings! I'm Khushi Pal, a passionate computer science student eager to learn and grow in the field. This project is the culmination of my internship at CodSoft, where I had the incredible opportunity to apply my knowledge and gain valuable hands-on experience. I'm thrilled to share this project with you!</p>
+        <p id="project">This webpage celebrates the remarkable women behind Chandrayaan-3's success. In an era where women are shattering barriers across all fields, this mission stands as a shining example of their exceptional talent and dedication. Here, we honor their contributions and inspire future generations to reach for the stars.</p>
+        <div id="contact">
+            <p>Contacts :</p>
+            <p><b><a href="www.linkedin.com/in/khushi-pal-463774255">LinkedIn</a></b></p>
+            <p><b><a href="https://github.com/Ishuk7/">GitHub</a></b></p>
+            <p><b><a href="your email link here">Email</a></b></p>
+        </div>
+    </section>
+</section> 
+
+</body>
+</html>
