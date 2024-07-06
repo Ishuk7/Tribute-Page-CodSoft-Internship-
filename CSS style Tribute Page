@@ -1,0 +1,413 @@
+.bg{
+    background-image: url(Background\ Star.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.my_logo{
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+}
+
+.arsenal-sc-regular{
+    font-family: "Arsenal SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.arsenal-sc-bold{
+    font-family: "Arsenal SC", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+  
+.arsenal-sc-regular-italic{
+    font-family: "Arsenal SC", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+  
+.arsenal-sc-bold-italic{
+    font-family: "Arsenal SC", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.quicksand{
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.title{
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 50%;
+    color: white;
+    font-family: 'Arsenal SC', Helvetica;
+}
+
+#title_name_1{
+    margin: 0px;
+    width: 700px;
+    font-size: 7vw;
+}
+
+#title_name_2{
+    margin: 0px;
+    width: 700px;
+    font-size: 6vw;
+}
+
+.para{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: white;
+    border-radius: 20px;
+}
+#para1{
+    margin: 0px;
+    padding: 20px;
+    padding-top: 0px;
+    text-align: justify;
+    font-family: 'quicksand';
+    font: 32px;
+}
+#para_heading{
+    display: inline-block;
+    margin: 10px;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: rgb(232, 176, 71);
+    border-radius: 10px;
+    font-size: 2vw;
+    font-family: 'Arsenal SC', Helvetica;
+}
+
+.fact{
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#fact1{
+    display: inline-block;
+    width: 45%;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
+    font-family: 'quicksand';
+}
+
+#fact1_heading{
+    display: inline-block;
+    padding: 10px;
+    background-color: rgb(232, 176, 71);
+    border-radius: 10px;
+    font-size: 1.5vw;
+    font-family: 'Arsenal SC', Helvetica;
+}
+
+#fact2{
+    display: inline-block;
+    width: 45%;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
+    font-family: 'quicksand';
+}
+
+#fact2_heading{
+    display: inline-block;
+    padding: 10px;
+    background-color: rgb(232, 176, 71);
+    border-radius: 10px;
+    font-size: 1.5vw;
+    font-family: 'Arsenal SC', Helvetica;
+}
+
+.ritu{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+#ritu_name{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    font-size: 1.5vw;
+    font-family: 'Arsenal SC', Helvetica;
+}
+
+#ritu_para{
+    text-align: justify;
+    font-family: 'quicksand';
+}
+
+#ritu_photo{
+    float: right;
+    margin: 10px;
+    margin-left: 10px;
+    width: 270px;
+    height: 330px;
+    border-radius: 20px;
+}
+
+.nandini{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+#nandini_name{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    font-size: 1.5vw;
+    font-family: 'Arsenal SC', Helvetica;
+}
+
+#nandini_para{
+    text-align: justify;
+    font-family: 'quicksand';
+}
+
+#nandini_photo{
+    float: left;
+    margin: 10px;
+    margin-right: 10px;
+    width: 270px;
+    height: 330px;
+    border-radius: 20px;
+}
+
+.anuradha{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+#anuradha_name{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    font-size: 1.5vw;
+    font-family: 'Arsenal SC', Helvetica;
+}
+
+#anuradha_para{
+    text-align: justify;
+    font-family: 'quicksand';
+}
+
+#anuradha_photo{
+    float: right;
+    margin: 10px;
+    margin-left: 10px;
+    width: 270px;
+    height: 330px;
+    border-radius: 20px;
+}
+
+.minal{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+#minal_name{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    font-size: 1.5vw;
+    font-family: 'Arsenal SC', Helvetica;
+}
+
+#minal_para{
+    text-align: justify;
+    font-family: 'quicksand';
+}
+
+#minal_photo{
+    float: left;
+    margin: 10px;
+    margin-right: 10px;
+    width: 270px;
+    height: 330px;
+    border-radius: 20px;
+}
+
+.tessy{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+#tessy_name{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    font-size: 1.5vw;
+    font-family: 'Arsenal SC', Helvetica;
+}
+
+#tessy_para{
+    text-align: justify;
+    font-family: 'quicksand';
+}
+
+#tessy_photo{
+    float: right;
+    margin: 10px;
+    margin-left: 10px;
+    width: 270px;
+    height: 330px;
+    border-radius: 20px;
+}
+
+.moumita{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+#moumita_name{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    font-size: 1.5vw;
+    font-family: 'Arsenal SC', Helvetica;
+}
+
+#moumita_para{
+    text-align: justify;
+    font-family: 'quicksand';
+}
+
+#moumita_photo{
+    float: left;
+    margin: 10px;
+    margin-right: 10px;
+    width: 270px;
+    height: 330px;
+    border-radius: 20px;
+}
+
+.lalithambika{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+#lalithambika_name{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    font-size: 1.5vw;
+    font-family: 'Arsenal SC', Helvetica;
+}
+
+#lalithambika_para{
+    text-align: justify;
+    font-family: 'quicksand';
+}
+
+#lalithambika_photo{
+    float: right;
+    margin: 10px;
+    margin-left: 10px;
+    width: 270px;
+    height: 330px;
+    border-radius: 20px;
+}
+
+.muthayya{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+#muthayya_name{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    font-size: 1.5vw;
+    font-family: 'Arsenal SC', Helvetica;
+}
+
+#muthayya_para{
+    text-align: justify;
+    font-family: 'quicksand';
+}
+
+#muthayya_photo{
+    float: left;
+    margin: 10px;
+    margin-right: 10px;
+    width: 270px;
+    height: 330px;
+    border-radius: 20px;
+}
+
+.end{
+    margin-bottom: 0px;
+    background-color: white;
+    font-family: 'quicksand';
+    display: flex;
+    justify-content: space-around;
+}
+
+#myself{
+    width: 25%;
+    text-align: justify;
+}
+
+#project{
+    width: 25%;
+    text-align: justify;
+}
+
+#cintact{
+    width: 25%;
+    text-align: justify;
+}
